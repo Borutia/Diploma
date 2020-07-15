@@ -1,0 +1,264 @@
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\bin\Debug\org.exe.config
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\bin\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\bin\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmCategory.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmCaterer.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmDeduction.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmDepart.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmExpense.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmIncome.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmMain.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmMerch.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmStore.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmWorker.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.Properties.Resources.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmStat1.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmStat2.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_02_12_1003192_ОргТехникаБанка_5000\org\org\obj\x86\Debug\org.frmStat3.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\bin\Debug\org.exe.config
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmCategory.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmCaterer.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmDeduction.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmExpense.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmIncome.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmMain.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmMerch.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmStore.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmWorker.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.Properties.Resources.resources
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\bin\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\bin\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\Zaochnik\2017\2017_06_22_1108508_СпортИнвентарь_3000\org\org\obj\x86\Debug\org.frmProducer.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\bin\Debug\org.exe.config
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\bin\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\bin\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmCategory.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmCaterer.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmDeduction.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmExpense.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmIncome.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmMain.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmMerch.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmProducer.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmStore.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.frmWorker.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\org.Properties.Resources.resources
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Игорь\КУРСОВОЙ\HOMEWORK\2018\2018_03_25_821703_УчетЗаказов_2500\org\org\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\bin\Debug\org.exe.config
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\bin\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\bin\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmCategory.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmCaterer.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmDeduction.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmExpense.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmIncome.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmMain.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmMerch.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmProducer.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmStore.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmWorker.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.Properties.Resources.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\bin\Debug\org.exe.config
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.exe
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.pdb
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\bin\Debug\org.exe
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\bin\Debug\org.pdb
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmCategory.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmCaterer.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmDeduction.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmExpense.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmIncome.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmMain.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmMerch.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmProducer.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmStore.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.frmWorker.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\org.Properties.Resources.resources
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Курсовой\Курсовик\2017\2017_12_26_101635_Склад_10000\org\org\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\bin\Debug\org.exe.config
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\bin\Debug\org.exe
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\bin\Debug\org.pdb
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmCategory.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmCaterer.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmDeduction.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmExpense.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmIncome.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmMain.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmMerch.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmProducer.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmStore.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.frmWorker.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\org.Properties.Resources.resources
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Игорь\КУРСОВОЙ\КУРСОВИК\2017\2017_12_26_101635_Склад_10000\orgLocalHost\org\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\temp\orgLocalHost\org\bin\Debug\org.exe.config
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.exe
+D:\temp\orgLocalHost\org\bin\Debug\org.exe
+D:\temp\orgLocalHost\org\bin\Debug\org.pdb
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmCategory.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmCaterer.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmDeduction.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmExpense.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmIncome.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmMain.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmMerch.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmProducer.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmStore.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.frmWorker.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.Properties.Resources.resources
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.csproj.GenerateResource.Cache
+D:\temp\orgLocalHost\org\obj\x86\Debug\org.pdb
+G:\orgWIN-ПК\org\bin\Debug\org.exe.config
+G:\orgWIN-ПК\org\obj\x86\Debug\org.exe
+G:\orgWIN-ПК\org\bin\Debug\org.exe
+G:\orgWIN-ПК\org\bin\Debug\org.pdb
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmCategory.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmCaterer.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmDeduction.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmExpense.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmIncome.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmMain.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmMerch.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmProducer.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmStore.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.frmWorker.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.Properties.Resources.resources
+G:\orgWIN-ПК\org\obj\x86\Debug\org.csproj.GenerateResource.Cache
+G:\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\bin\Debug\org.exe.config
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.exe
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\bin\Debug\org.exe
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\bin\Debug\org.pdb
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmCategory.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmCaterer.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmDeduction.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmExpense.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmIncome.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmMain.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmMerch.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmProducer.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmStore.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.frmWorker.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.Properties.Resources.resources
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.csproj.GenerateResource.Cache
+C:\Users\Win\Desktop\orgWIN-ПК\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\bin\Debug\org.exe.config
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.exe
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\bin\Debug\org.exe
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\bin\Debug\org.pdb
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmCategory.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmCaterer.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmDeduction.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmExpense.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmIncome.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmMerch.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmProducer.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmStore.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmWorker.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.Properties.Resources.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.csproj.GenerateResource.Cache
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmLogin.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmAdmin.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmMa.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmAbout.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmEmployee.resources
+C:\Users\Win\Desktop\тест\orgWIN-ПК\org\obj\x86\Debug\org.frmUser.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\bin\Debug\org.exe.config
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.exe
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmAbout.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmAdmin.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmCategory.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmCaterer.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmDeduction.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmEmployee.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmExpense.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmIncome.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmLogin.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmMerch.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmProducer.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmStore.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmUser.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmWorker.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.Properties.Resources.resources
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.csproj.GenerateResource.Cache
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\bin\Debug\org.exe
+C:\Users\Win\Desktop\тест - копия\orgWIN-ПК\org\bin\Debug\org.pdb
+\\VBOXSVR\Windows_7\тест - копия\тест - копия\orgWIN-ПК\org\bin\Debug\org.exe.config
+\\VBOXSVR\Windows_7\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.exe
+\\VBOXSVR\Windows_7\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\тест - копия\тест - копия\orgWIN-ПК\org\bin\Debug\org.exe.config
+C:\Users\Win\Desktop\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.exe
+C:\Users\Win\Desktop\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\bin\Debug\org.exe.config
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.exe
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\bin\Debug\org.exe
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\bin\Debug\org.pdb
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmAbout.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmAdmin.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmCategory.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmCaterer.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmDeduction.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmEmployee.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmExpense.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmIncome.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmLogin.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmMerch.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmProducer.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmStore.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmUser.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.frmWorker.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.Properties.Resources.resources
+C:\Users\Win\Desktop\тест - копия\тест - копия\тест - копия\orgWIN-ПК\org\obj\x86\Debug\org.csproj.GenerateResource.Cache
+C:\Users\Win\Desktop\orgWIN-ПК\org\bin\Debug\org.exe.config
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.exe
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.pdb
+C:\Users\Win\Desktop\orgWIN-ПК\org\bin\Debug\org.exe
+C:\Users\Win\Desktop\orgWIN-ПК\org\bin\Debug\org.pdb
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.csprojResolveAssemblyReference.cache
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmAbout.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmAdmin.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmCategory.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmCaterer.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmDeduction.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmEmployee.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmExpense.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmIncome.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmLogin.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmMerch.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmProducer.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmStore.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmUser.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.frmWorker.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.Properties.Resources.resources
+C:\Users\Win\Desktop\orgWIN-ПК\org\obj\x86\Debug\org.csproj.GenerateResource.Cache
